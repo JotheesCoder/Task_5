@@ -78,17 +78,17 @@ const Footer = () => {
                         <div className='sm:space-y-2 space-y-1.5 xl:text-base text-sm'>
                             {/* Phone (fake) */}
                             <a className='block text-sm sm:text-base hover:underline' href="tel:+1 (406) 555-0120">
-                                <Phone fontSize='inherit' /> +1 (406) 555-0120
+                                <Phone fontSize='inherit' /> +91 XXXXX-XXXXX
                             </a>
 
                             {/* Email */}
                             <a className='block text-sm sm:text-base hover:underline' href="mailto:hasan.dev1@gmail.com">
-                                <Mail fontSize='inherit' /> developer@gmail.com
+                                <Mail fontSize='inherit' /> cb4_3@gmail.com
                             </a>
 
                             {/* Address (fake)*/}
                             <address>
-                                <LocationOn fontSize='inherit' />123 Main Street, New York
+                                <LocationOn fontSize='inherit' />GCE Salem-11
                             </address>
                         </div>
                     </div>
@@ -99,7 +99,7 @@ const Footer = () => {
             <div>
                 <hr className='border-gray-600' />
                 <div className='text-center flex items-center h-12'>
-                    <span className='text-xs  w-full block text-gray-300 tracking-wider'>© 2023 Developed By <a className='hover:underline' href="https://github.com/ahmod001" target="_blank" rel="noopener noreferrer"> Hasan </a></span>
+                    <span className='text-xs  w-full block text-gray-300 tracking-wider'>© 2023 Developed By <a className='hover:underline' href="https://github.com/ahmod001" target="_blank" rel="noopener noreferrer"> CB_4 </a></span>
                 </div>
             </div>
         </footer>

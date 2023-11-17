@@ -26,7 +26,8 @@ const ReviewCard = ({ user }) => {
             </header>
 
             {/* Review Text */}
-            <p className='text-sm text-justify  sm:text-xs md:text-sm tracking-normal'> Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat veritatis, aut voluptates officia ipsa modi .</p>
+            <p className='text-sm text-justify  sm:text-xs md:text-sm tracking-normal'>Brilliant products and absolutely prompt dispatch/delivery services.
+I’m glad I found “Best Grocery” and I definitely recommend it!</p>
 
             {/* Review Stars */}
             <footer className='text-lg space-x-0.5'>
